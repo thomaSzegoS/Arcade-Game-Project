@@ -4,7 +4,6 @@
 
 * [Instructions](#instructions)
 * [Contributing](#contributing)
-* [Get the Starter Code](#Starter-Code)
 
 ## Instructions
   In this game you have a Player and Enemies (Bugs). The goal of the player is to reach the water, without colliding into any one of the enemies. The player can move left, right, up and down. The enemies move in varying speeds on the paved block portion of the scene. Once a the player collides with an enemy, the game is reset and the player moves back to the start square. Once the player reaches the water the game is won.
@@ -24,7 +23,6 @@ All suggestions and pull requests are acceptable!
 * Add help guide button.
 * Add difficulty handler that changes the number of the cards.
 
-## Starter-Code
 
-#### You can download the starter code through either:
+## You can download the starter code here:
 * [The arcade game repository on GitHub](https://github.com/udacity/frontend-nanodegree-arcade-game)
