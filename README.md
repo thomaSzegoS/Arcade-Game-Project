@@ -1,4 +1,5 @@
 # Udacity - FEND Arcade Game Project
+[Click here to see the live version!](https://thomaszegos.github.io/Arcade-Game-Project/)
 
 ## Table of Contents
 
